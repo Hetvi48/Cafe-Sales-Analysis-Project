@@ -1,0 +1,480 @@
+Item,Quantity,Price Per Unit,Total Spent,Payment Method,Location,Transaction Date
+Smoothie,ERROR,4,20,Cash,In-store,04-04-2023
+Cookie,ERROR,1,2,Credit Card,Takeaway,19-03-2023
+Cake,UNKNOWN,3,3,Digital Wallet,In-store,19-04-2023
+Juice,,3,6,Cash,,30-03-2023
+Juice,ERROR,3,9,Digital Wallet,UNKNOWN,10-01-2023
+UNKNOWN,UNKNOWN,3,12,Cash,In-store,25-11-2023
+Salad,ERROR,5,25,,In-store,23-09-2023
+Smoothie,ERROR,4,16,Digital Wallet,,11-04-2023
+Cookie,UNKNOWN,1,3,ERROR,,06-12-2023
+Juice,ERROR,3,12,ERROR,,11-04-2023
+Salad,ERROR,5,25,Cash,In-store,04-05-2023
+Salad,ERROR,5,UNKNOWN,,In-store,18-05-2023
+Sandwich,UNKNOWN,4,16,,In-store,26-11-2023
+Juice,UNKNOWN,3,UNKNOWN,Cash,Takeaway,15-04-2023
+Coffee,UNKNOWN,2,8,Cash,,25-04-2023
+Cookie,ERROR,1,1,,,28-04-2023
+Sandwich,UNKNOWN,4,12,Digital Wallet,In-store,08-10-2023
+Cookie,ERROR,1,1,Credit Card,,14-07-2023
+Cookie,,1,3,Credit Card,In-store,29-12-2023
+Coffee,,2,4,Credit Card,In-store,18-07-2023
+Juice,,3,3,Credit Card,Takeaway,04-10-2023
+ERROR,ERROR,4,12,,Takeaway,UNKNOWN
+Tea,UNKNOWN,1.5,4.5,Digital Wallet,Takeaway,15-12-2023
+Cake,UNKNOWN,3,9,Cash,Takeaway,15-09-2023
+Tea,UNKNOWN,1.5,3,,In-store,13-12-2023
+Cookie,,1,1,Digital Wallet,In-store,09-11-2023
+ERROR,,3,6,Cash,,UNKNOWN
+Sandwich,,4,4,Digital Wallet,In-store,22-04-2023
+Sandwich,,4,8,ERROR,ERROR,24-11-2023
+Cookie,,1,5,Digital Wallet,Takeaway,29-04-2023
+Salad,ERROR,5,10,Credit Card,ERROR,07-10-2023
+Cake,ERROR,,12,Digital Wallet,In-store,30-12-2023
+Juice,UNKNOWN,3,ERROR,,,17-03-2023
+Juice,,3,6,,In-store,16-11-2023
+Salad,,5,15,Credit Card,,06-06-2023
+ERROR,,2,2,,In-store,25-03-2023
+Cake,,3,12,Cash,In-store,23-06-2023
+Coffee,UNKNOWN,2,6,,In-store,05-10-2023
+UNKNOWN,ERROR,2,6,Credit Card,In-store,21-08-2023
+Sandwich,UNKNOWN,4,,,Takeaway,14-05-2023
+Cookie,UNKNOWN,1,3,Credit Card,In-store,07-01-2023
+Salad,ERROR,5,10,,,01-01-2023
+Salad,,5,25,Digital Wallet,,02-05-2023
+Cookie,ERROR,1,2,Cash,,30-10-2023
+Smoothie,ERROR,4,20,,,16-10-2023
+Sandwich,,4,4,Digital Wallet,In-store,22-10-2023
+Cookie,ERROR,1,3,Digital Wallet,Takeaway,25-10-2023
+Cake,ERROR,3,12,Cash,Takeaway,UNKNOWN
+Tea,UNKNOWN,1.5,3,Cash,,08-02-2023
+Cake,ERROR,3,9,ERROR,In-store,01-01-2023
+Salad,UNKNOWN,5,20,Digital Wallet,In-store,05-12-2023
+Tea,UNKNOWN,1.5,7.5,Digital Wallet,Takeaway,24-06-2023
+Juice,,3,12,,UNKNOWN,26-09-2023
+Smoothie,ERROR,4,20,Cash,,25-01-2023
+Sandwich,,,20,ERROR,Takeaway,05-01-2023
+Coffee,UNKNOWN,2,4,,Takeaway,03-12-2023
+Smoothie,UNKNOWN,4,4,Credit Card,In-store,UNKNOWN
+Cookie,UNKNOWN,1,1,Digital Wallet,UNKNOWN,14-04-2023
+Juice,ERROR,3,6,Cash,Takeaway,01-11-2023
+Coffee,,2,2,Cash,,07-10-2023
+Tea,ERROR,,3,Credit Card,Takeaway,07-03-2023
+Salad,,5,5,Digital Wallet,ERROR,02-04-2023
+Smoothie,ERROR,4,4,Digital Wallet,,05-03-2023
+Sandwich,UNKNOWN,4,8,Digital Wallet,In-store,11-08-2023
+Tea,,1.5,1.5,Cash,,24-05-2023
+Sandwich,ERROR,4,8,Cash,,17-05-2023
+Sandwich,,4,20,Cash,,09-06-2023
+Coffee,UNKNOWN,2,6,,Takeaway,10-02-2023
+Smoothie,ERROR,4,16,Credit Card,,13-04-2023
+UNKNOWN,,1.5,3,Digital Wallet,,10-04-2023
+,UNKNOWN,1.5,7.5,Digital Wallet,In-store,04-08-2023
+Coffee,UNKNOWN,2,10,,,ERROR
+Smoothie,UNKNOWN,4,12,Digital Wallet,In-store,13-07-2023
+Cake,ERROR,3,9,,,11-05-2023
+Cake,,3,12,UNKNOWN,,11-10-2023
+Sandwich,ERROR,4,12,,Takeaway,06-02-2023
+Coffee,UNKNOWN,2,6,,In-store,27-10-2023
+UNKNOWN,,1.5,6,,Takeaway,12-01-2023
+Coffee,,2,6,,Takeaway,19-12-2023
+Tea,UNKNOWN,UNKNOWN,6,Cash,Takeaway,ERROR
+Cookie,UNKNOWN,1,1,,Takeaway,
+,,5,5,Cash,,09-10-2023
+Salad,ERROR,5,15,Cash,Takeaway,08-06-2023
+Cake,,3,9,Credit Card,Takeaway,30-04-2023
+Salad,ERROR,5,25,Cash,ERROR,15-04-2023
+Smoothie,UNKNOWN,,16,Cash,,05-03-2023
+Juice,ERROR,3,9,Cash,,07-09-2023
+ERROR,ERROR,1,5,Cash,Takeaway,29-09-2023
+Coffee,,2,10,Credit Card,Takeaway,08-11-2023
+Juice,UNKNOWN,3,6,Credit Card,,28-06-2023
+Salad,ERROR,5,10,ERROR,,19-05-2023
+Smoothie,ERROR,4,4,Cash,,17-09-2023
+Juice,,3,12,,,26-04-2023
+Sandwich,,4,20,Credit Card,,27-02-2023
+Tea,UNKNOWN,1.5,3,Digital Wallet,In-store,21-02-2023
+Cake,,3,9,Cash,ERROR,03-12-2023
+Smoothie,ERROR,4,8,,Takeaway,UNKNOWN
+UNKNOWN,ERROR,5,10,Cash,,12-11-2023
+Salad,,5,5,,,25-11-2023
+Tea,UNKNOWN,1.5,6,Credit Card,,23-06-2023
+Cookie,ERROR,1,5,,In-store,07-03-2023
+Cake,ERROR,3,6,Digital Wallet,In-store,27-04-2023
+Cookie,ERROR,1,1,Credit Card,Takeaway,26-07-2023
+,ERROR,2,2,Digital Wallet,Takeaway,05-04-2023
+UNKNOWN,,5,20,Cash,,20-06-2023
+Sandwich,,4,20,Credit Card,Takeaway,26-09-2023
+Smoothie,ERROR,4,4,Credit Card,,03-10-2023
+Sandwich,ERROR,4,12,Cash,Takeaway,06-04-2023
+Juice,UNKNOWN,3,15,Digital Wallet,,04-08-2023
+Coffee,,2,4,,,25-11-2023
+Cake,ERROR,3,12,Credit Card,In-store,03-03-2023
+,,2,2,Digital Wallet,Takeaway,08-12-2023
+Sandwich,,4,12,Credit Card,,05-02-2023
+Sandwich,ERROR,4,8,,,07-09-2023
+Coffee,,2,4,Credit Card,Takeaway,01-12-2023
+ERROR,ERROR,1.5,3,UNKNOWN,Takeaway,24-01-2023
+Juice,UNKNOWN,3,9,,Takeaway,24-05-2023
+Salad,,5,15,Credit Card,In-store,10-08-2023
+Salad,UNKNOWN,UNKNOWN,5,,In-store,01-03-2023
+Coffee,,2,10,Digital Wallet,Takeaway,17-08-2023
+Tea,ERROR,1.5,7.5,Credit Card,In-store,24-10-2023
+Smoothie,ERROR,4,20,Cash,,02-01-2023
+Tea,UNKNOWN,1.5,1.5,UNKNOWN,Takeaway,22-08-2023
+Smoothie,UNKNOWN,4,8,,,27-11-2023
+Sandwich,UNKNOWN,4,8,Cash,UNKNOWN,12-02-2023
+,ERROR,5,20,Digital Wallet,,22-04-2023
+Cookie,UNKNOWN,1,1,,,17-07-2023
+Cake,ERROR,3,15,Cash,In-store,08-09-2023
+Sandwich,UNKNOWN,4,20,Cash,Takeaway,17-05-2023
+Tea,ERROR,1.5,4.5,Cash,,19-11-2023
+,ERROR,4,4,Digital Wallet,In-store,18-04-2023
+Smoothie,UNKNOWN,4,12,Digital Wallet,In-store,05-11-2023
+Sandwich,ERROR,4,16,,,26-02-2023
+Coffee,ERROR,2,4,Digital Wallet,,15-09-2023
+Coffee,,2,6,Digital Wallet,Takeaway,19-05-2023
+Juice,UNKNOWN,3,9,,Takeaway,
+Coffee,,2,4,,,20-09-2023
+Cake,,3,12,Digital Wallet,Takeaway,21-07-2023
+Cake,ERROR,3,UNKNOWN,Credit Card,,01-12-2023
+Tea,ERROR,1.5,3,Credit Card,Takeaway,23-05-2023
+Juice,,3,9,Cash,Takeaway,10-12-2023
+Sandwich,UNKNOWN,4,4,,Takeaway,13-01-2023
+Salad,ERROR,5,20,Digital Wallet,In-store,15-07-2023
+Salad,UNKNOWN,5,5,Cash,Takeaway,23-06-2023
+Cookie,,1,3,,,28-10-2023
+Coffee,,2,10,Digital Wallet,,21-07-2023
+Coffee,,2,8,Credit Card,In-store,19-12-2023
+Cookie,UNKNOWN,1,5,,,06-02-2023
+Smoothie,,4,4,,,11-01-2023
+Cookie,,1,1,Digital Wallet,Takeaway,21-05-2023
+Salad,UNKNOWN,5,15,Digital Wallet,In-store,16-06-2023
+UNKNOWN,ERROR,4,4,Digital Wallet,,06-02-2023
+Cookie,UNKNOWN,1,5,Credit Card,,19-09-2023
+Coffee,UNKNOWN,2,2,Cash,In-store,18-06-2023
+Tea,ERROR,1.5,6,Credit Card,,07-09-2023
+Cake,UNKNOWN,3,3,UNKNOWN,,05-09-2023
+Tea,UNKNOWN,1.5,4.5,ERROR,,07-05-2023
+Salad,UNKNOWN,5,25,Credit Card,In-store,05-01-2023
+ERROR,UNKNOWN,4,8,Digital Wallet,In-store,08-03-2023
+Tea,UNKNOWN,1.5,4.5,,,10-07-2023
+Juice,,3,6,,In-store,09-06-2023
+Smoothie,,4,ERROR,Digital Wallet,Takeaway,06-10-2023
+Cake,,3,15,,Takeaway,19-10-2023
+Coffee,,2,UNKNOWN,,,07-04-2023
+Cake,UNKNOWN,3,12,Cash,Takeaway,02-04-2023
+Cookie,,1,2,Credit Card,Takeaway,28-12-2023
+Salad,UNKNOWN,5,25,Cash,Takeaway,23-10-2023
+Cookie,ERROR,1,3,Digital Wallet,Takeaway,15-03-2023
+Sandwich,,4,8,UNKNOWN,Takeaway,18-10-2023
+UNKNOWN,,1.5,4.5,Cash,Takeaway,11-01-2023
+Sandwich,UNKNOWN,4,16,Cash,Takeaway,ERROR
+Coffee,UNKNOWN,2,4,,Takeaway,15-05-2023
+UNKNOWN,UNKNOWN,2,4,,,30-09-2023
+Tea,,1.5,3,Cash,Takeaway,28-08-2023
+,ERROR,1.5,3,Credit Card,,26-03-2023
+UNKNOWN,UNKNOWN,3,15,Digital Wallet,Takeaway,01-02-2023
+Cookie,,1,5,Cash,In-store,11-05-2023
+Tea,UNKNOWN,1.5,6,Digital Wallet,,06-09-2023
+Tea,,1.5,,Digital Wallet,In-store,25-07-2023
+Coffee,ERROR,2,4,Cash,Takeaway,05-12-2023
+Cookie,ERROR,1,1,,In-store,14-12-2023
+Coffee,ERROR,2,8,,Takeaway,10-10-2023
+Juice,UNKNOWN,3,3,Digital Wallet,,25-06-2023
+ERROR,ERROR,1.5,1.5,Cash,In-store,21-09-2023
+Cookie,UNKNOWN,1,2,ERROR,UNKNOWN,18-05-2023
+Salad,ERROR,5,20,Credit Card,In-store,ERROR
+Coffee,UNKNOWN,2,8,Credit Card,Takeaway,05-05-2023
+Juice,UNKNOWN,3,15,,In-store,17-03-2023
+Cookie,ERROR,UNKNOWN,1,Cash,ERROR,26-07-2023
+Coffee,ERROR,2,10,Credit Card,Takeaway,16-05-2023
+Smoothie,UNKNOWN,4,12,Credit Card,ERROR,18-08-2023
+Cookie,UNKNOWN,1,1,,,17-06-2023
+Tea,UNKNOWN,1.5,7.5,Cash,,03-04-2023
+Tea,,1.5,1.5,,In-store,04-06-2023
+Sandwich,ERROR,4,20,Cash,Takeaway,05-01-2023
+Coffee,ERROR,2,8,Cash,,03-12-2023
+Salad,ERROR,5,20,Cash,Takeaway,19-03-2023
+Salad,ERROR,5,20,Credit Card,In-store,04-03-2023
+UNKNOWN,UNKNOWN,UNKNOWN,25,,In-store,27-05-2023
+ERROR,ERROR,4,12,,,06-12-2023
+Cake,ERROR,3,3,,In-store,25-12-2023
+ERROR,,1.5,4.5,Credit Card,In-store,22-03-2023
+Cookie,,1,1,Credit Card,In-store,02-07-2023
+Salad,,5,10,Credit Card,,02-04-2023
+Sandwich,UNKNOWN,4,12,Credit Card,In-store,28-02-2023
+UNKNOWN,,4,12,,In-store,16-08-2023
+Sandwich,,4,20,,In-store,25-08-2023
+Smoothie,,4,4,Digital Wallet,Takeaway,12-03-2023
+Cookie,UNKNOWN,1,1,Credit Card,In-store,08-05-2023
+UNKNOWN,ERROR,1,4,,In-store,12-01-2023
+Smoothie,UNKNOWN,4,4,Credit Card,UNKNOWN,23-06-2023
+Coffee,ERROR,2,2,,Takeaway,07-12-2023
+Tea,,1.5,1.5,Cash,In-store,19-09-2023
+Cake,,3,15,Credit Card,UNKNOWN,04-11-2023
+Tea,UNKNOWN,1.5,1.5,,,16-06-2023
+Cookie,,1,3,,In-store,17-06-2023
+Tea,,1.5,1.5,Credit Card,,30-09-2023
+Coffee,ERROR,2,ERROR,Digital Wallet,Takeaway,18-09-2023
+Cake,UNKNOWN,3,15,,,15-05-2023
+UNKNOWN,UNKNOWN,2,10,Credit Card,UNKNOWN,29-06-2023
+Salad,ERROR,5,25,,,15-08-2023
+Tea,,1.5,1.5,Cash,Takeaway,25-07-2023
+Sandwich,,4,20,Cash,In-store,13-06-2023
+Cake,,3,12,,In-store,09-09-2023
+UNKNOWN,,2,10,,In-store,28-05-2023
+,ERROR,2,8,,Takeaway,09-09-2023
+Sandwich,UNKNOWN,4,20,Digital Wallet,,28-09-2023
+Cake,,3,6,Cash,UNKNOWN,06-04-2023
+Cake,ERROR,3,9,Cash,Takeaway,29-12-2023
+Coffee,UNKNOWN,2,8,ERROR,In-store,07-03-2023
+Coffee,UNKNOWN,2,2,,,02-11-2023
+Tea,,1.5,1.5,Digital Wallet,Takeaway,27-11-2023
+Cookie,ERROR,1,5,Digital Wallet,In-store,20-07-2023
+Smoothie,UNKNOWN,4,4,,In-store,11-05-2023
+ERROR,,1.5,4.5,,Takeaway,31-05-2023
+Sandwich,UNKNOWN,4,20,Cash,In-store,12-06-2023
+Juice,UNKNOWN,3,6,Credit Card,Takeaway,11-10-2023
+Tea,UNKNOWN,1.5,6,Cash,Takeaway,01-08-2023
+ERROR,ERROR,1.5,3,Credit Card,Takeaway,19-06-2023
+Sandwich,ERROR,4,12,,In-store,31-01-2023
+Juice,,3,3,Digital Wallet,In-store,30-01-2023
+Smoothie,,4,12,Credit Card,Takeaway,25-02-2023
+Salad,UNKNOWN,5,20,,,06-02-2023
+Sandwich,UNKNOWN,4,16,Credit Card,Takeaway,12-09-2023
+Salad,ERROR,5,15,,ERROR,14-06-2023
+Cookie,,1,4,Credit Card,In-store,08-08-2023
+Coffee,ERROR,2,6,,In-store,24-08-2023
+Tea,UNKNOWN,1.5,1.5,Credit Card,,05-07-2023
+Salad,,5,20,,In-store,13-10-2023
+Tea,UNKNOWN,1.5,6,Digital Wallet,Takeaway,15-06-2023
+Coffee,ERROR,2,8,Cash,Takeaway,08-08-2023
+Tea,UNKNOWN,1.5,1.5,,ERROR,04-09-2023
+Salad,UNKNOWN,5,25,Credit Card,In-store,13-04-2023
+Cookie,,1,4,Credit Card,Takeaway,07-02-2023
+ERROR,ERROR,2,2,Credit Card,,07-07-2023
+Smoothie,UNKNOWN,4,12,Digital Wallet,,23-12-2023
+Smoothie,ERROR,4,16,Credit Card,Takeaway,21-02-2023
+Coffee,UNKNOWN,2,6,Cash,In-store,24-08-2023
+Smoothie,ERROR,4,8,UNKNOWN,,24-01-2023
+Coffee,ERROR,2,8,Digital Wallet,In-store,10-06-2023
+Coffee,UNKNOWN,2,10,Cash,,UNKNOWN
+,UNKNOWN,2,2,Credit Card,,17-01-2023
+Juice,,3,9,Digital Wallet,Takeaway,28-07-2023
+Smoothie,UNKNOWN,4,20,Digital Wallet,,20-04-2023
+Sandwich,UNKNOWN,4,8,Credit Card,In-store,25-06-2023
+Tea,ERROR,1.5,4.5,,In-store,
+,,1.5,1.5,Cash,Takeaway,18-02-2023
+Juice,UNKNOWN,3,12,Digital Wallet,Takeaway,04-12-2023
+Smoothie,UNKNOWN,4,16,Digital Wallet,,22-06-2023
+Tea,,1.5,1.5,Digital Wallet,Takeaway,07-11-2023
+Salad,UNKNOWN,5,25,,,24-08-2023
+Sandwich,ERROR,4,4,Digital Wallet,,04-06-2023
+Juice,UNKNOWN,3,6,Cash,UNKNOWN,21-09-2023
+Cookie,UNKNOWN,1,4,,Takeaway,02-01-2023
+Smoothie,ERROR,4,20,Cash,In-store,13-03-2023
+Tea,ERROR,1.5,3,Credit Card,Takeaway,16-07-2023
+Juice,,3,6,Credit Card,In-store,14-04-2023
+Coffee,UNKNOWN,2,8,Cash,,15-07-2023
+Salad,ERROR,5,20,Cash,UNKNOWN,02-12-2023
+Tea,UNKNOWN,1.5,1.5,Credit Card,Takeaway,26-08-2023
+Smoothie,UNKNOWN,4,12,Cash,In-store,
+Salad,UNKNOWN,5,10,,Takeaway,08-04-2023
+Juice,,3,9,Credit Card,,05-10-2023
+Cake,UNKNOWN,3,9,,,29-06-2023
+Sandwich,UNKNOWN,4,4,Credit Card,In-store,12-02-2023
+Cake,ERROR,3,6,Digital Wallet,Takeaway,28-09-2023
+Salad,UNKNOWN,5,15,,,22-10-2023
+Salad,UNKNOWN,5,10,Digital Wallet,Takeaway,23-03-2023
+ERROR,UNKNOWN,2,10,,In-store,02-05-2023
+Sandwich,UNKNOWN,4,8,Cash,,31-10-2023
+Tea,,ERROR,6,Credit Card,,13-10-2023
+Cake,,3,15,,Takeaway,21-04-2023
+Cookie,ERROR,1,4,Credit Card,In-store,ERROR
+,ERROR,4,4,,,08-08-2023
+Salad,UNKNOWN,5,15,ERROR,Takeaway,06-06-2023
+Juice,UNKNOWN,3,6,Credit Card,,30-12-2023
+Juice,ERROR,3,12,Credit Card,,22-12-2023
+Cookie,UNKNOWN,1,ERROR,Digital Wallet,In-store,05-07-2023
+Smoothie,,UNKNOWN,8,UNKNOWN,Takeaway,19-08-2023
+Juice,UNKNOWN,3,6,Credit Card,In-store,15-11-2023
+Cookie,UNKNOWN,1,1,Cash,,12-05-2023
+Smoothie,UNKNOWN,4,4,Digital Wallet,Takeaway,29-04-2023
+Cookie,UNKNOWN,1,2,Credit Card,,05-11-2023
+,ERROR,4,8,Digital Wallet,In-store,01-04-2023
+Sandwich,,4,20,Digital Wallet,In-store,25-09-2023
+Coffee,,2,2,Cash,,11-04-2023
+Tea,,1.5,1.5,Digital Wallet,Takeaway,08-07-2023
+Sandwich,,4,12,Credit Card,,16-01-2023
+Sandwich,ERROR,4,16,ERROR,,13-07-2023
+Cake,,3,12,,In-store,19-04-2023
+UNKNOWN,,4,12,,,11-10-2023
+Cookie,UNKNOWN,,2,,UNKNOWN,
+Juice,,3,15,Digital Wallet,In-store,17-02-2023
+ERROR,,4,12,Credit Card,ERROR,13-06-2023
+Salad,ERROR,5,5,UNKNOWN,UNKNOWN,
+Salad,ERROR,5,15,Digital Wallet,In-store,05-02-2023
+Cake,ERROR,3,3,Digital Wallet,,17-08-2023
+Tea,ERROR,1.5,4.5,,UNKNOWN,UNKNOWN
+Tea,UNKNOWN,1.5,4.5,,Takeaway,11-08-2023
+Sandwich,ERROR,4,20,Credit Card,Takeaway,26-02-2023
+Juice,UNKNOWN,3,15,,Takeaway,01-02-2023
+UNKNOWN,ERROR,4,16,Cash,Takeaway,25-09-2023
+Sandwich,,4,8,Cash,In-store,10-03-2023
+Sandwich,UNKNOWN,4,4,Cash,,08-11-2023
+Cookie,UNKNOWN,ERROR,1,Credit Card,,28-10-2023
+Cookie,ERROR,1,1,Digital Wallet,Takeaway,07-01-2023
+Coffee,ERROR,UNKNOWN,4,ERROR,,08-09-2023
+Smoothie,,4,4,Cash,,02-05-2023
+Smoothie,UNKNOWN,4,20,,,27-05-2023
+Juice,ERROR,3,6,Credit Card,In-store,06-09-2023
+Cookie,,1,3,Digital Wallet,Takeaway,29-01-2023
+Smoothie,,4,12,Digital Wallet,In-store,02-07-2023
+Juice,ERROR,3,15,Digital Wallet,In-store,26-10-2023
+Cake,,3,12,Digital Wallet,ERROR,18-03-2023
+Sandwich,UNKNOWN,4,20,Cash,In-store,06-04-2023
+Tea,ERROR,1.5,6,,In-store,ERROR
+Tea,,1.5,4.5,Digital Wallet,,18-07-2023
+Smoothie,,4,12,Credit Card,,23-12-2023
+Coffee,,2,ERROR,Cash,,25-12-2023
+Coffee,ERROR,2,10,Credit Card,,10-01-2023
+UNKNOWN,,1,5,Cash,,06-10-2023
+Coffee,ERROR,2,6,,In-store,18-03-2023
+Tea,ERROR,1.5,7.5,Credit Card,In-store,06-09-2023
+Sandwich,UNKNOWN,4,8,Digital Wallet,Takeaway,03-05-2023
+Juice,ERROR,3,9,,Takeaway,31-10-2023
+Salad,,5,15,,Takeaway,03-12-2023
+Coffee,ERROR,2,2,Credit Card,,01-01-2023
+Sandwich,,4,12,Cash,Takeaway,01-05-2023
+Salad,ERROR,5,25,Cash,,29-06-2023
+Cookie,,1,5,,In-store,26-01-2023
+Tea,ERROR,1.5,6,Digital Wallet,,
+Coffee,,2,6,Digital Wallet,Takeaway,19-11-2023
+Cookie,,1,5,,Takeaway,15-10-2023
+Smoothie,UNKNOWN,4,ERROR,Cash,In-store,03-01-2023
+Tea,UNKNOWN,1.5,4.5,Credit Card,Takeaway,13-07-2023
+Cake,ERROR,3,15,,In-store,29-09-2023
+Coffee,UNKNOWN,2,2,Digital Wallet,,27-07-2023
+Coffee,UNKNOWN,2,4,,In-store,
+Sandwich,UNKNOWN,4,8,Digital Wallet,,30-12-2023
+Sandwich,UNKNOWN,4,12,Credit Card,Takeaway,12-11-2023
+Tea,UNKNOWN,1.5,6,,Takeaway,29-04-2023
+UNKNOWN,UNKNOWN,4,16,Credit Card,Takeaway,17-11-2023
+Smoothie,UNKNOWN,4,4,,Takeaway,19-02-2023
+Sandwich,UNKNOWN,4,20,,In-store,16-05-2023
+Coffee,ERROR,2,2,Digital Wallet,,23-04-2023
+Tea,ERROR,1.5,7.5,UNKNOWN,Takeaway,22-03-2023
+Cake,ERROR,3,3,Cash,Takeaway,17-03-2023
+Coffee,,2,4,Cash,,08-07-2023
+ERROR,UNKNOWN,,9,Digital Wallet,In-store,13-12-2023
+Juice,UNKNOWN,3,6,Cash,,09-05-2023
+Salad,,5,25,Digital Wallet,In-store,27-12-2023
+Cake,ERROR,3,6,Digital Wallet,In-store,06-12-2023
+Tea,UNKNOWN,1.5,7.5,Credit Card,In-store,10-01-2023
+Coffee,,2,6,Digital Wallet,,26-03-2023
+,ERROR,2,4,Cash,Takeaway,12-01-2023
+Sandwich,UNKNOWN,4,12,UNKNOWN,Takeaway,26-01-2023
+Juice,ERROR,3,3,ERROR,Takeaway,31-07-2023
+Cake,ERROR,3,9,Digital Wallet,Takeaway,03-02-2023
+Coffee,UNKNOWN,2,8,Digital Wallet,,26-10-2023
+UNKNOWN,,4,12,UNKNOWN,In-store,03-01-2023
+ERROR,UNKNOWN,3,9,Credit Card,In-store,04-10-2023
+,UNKNOWN,4,12,Digital Wallet,,04-09-2023
+Sandwich,ERROR,4,12,Cash,Takeaway,17-01-2023
+Salad,ERROR,5,UNKNOWN,,In-store,09-05-2023
+Sandwich,ERROR,4,16,,Takeaway,26-11-2023
+Juice,ERROR,3,12,,,17-08-2023
+Cake,,3,9,Digital Wallet,In-store,24-03-2023
+Salad,,5,10,Digital Wallet,Takeaway,19-12-2023
+Cookie,ERROR,1,4,Digital Wallet,UNKNOWN,17-12-2023
+Sandwich,ERROR,4,12,Digital Wallet,Takeaway,29-01-2023
+Salad,ERROR,5,25,Credit Card,Takeaway,22-02-2023
+ERROR,UNKNOWN,5,5,Cash,ERROR,15-05-2023
+Cookie,ERROR,1,4,,In-store,25-09-2023
+,ERROR,3,9,Cash,Takeaway,19-03-2023
+Salad,UNKNOWN,5,20,,In-store,20-01-2023
+Smoothie,UNKNOWN,4,8,Credit Card,Takeaway,23-03-2023
+Cookie,UNKNOWN,1,5,Cash,,19-05-2023
+UNKNOWN,UNKNOWN,3,3,Digital Wallet,Takeaway,30-10-2023
+Cake,ERROR,3,6,Cash,In-store,21-09-2023
+Sandwich,,4,ERROR,Cash,In-store,25-05-2023
+Tea,ERROR,1.5,1.5,Digital Wallet,Takeaway,08-01-2023
+Juice,ERROR,3,12,,Takeaway,UNKNOWN
+Coffee,ERROR,2,UNKNOWN,,ERROR,03-06-2023
+Sandwich,ERROR,4,8,Digital Wallet,,10-01-2023
+Sandwich,,4,,,Takeaway,11-09-2023
+Tea,ERROR,1.5,7.5,,Takeaway,10-02-2023
+Sandwich,ERROR,4,20,Digital Wallet,In-store,15-12-2023
+Cake,,3,3,ERROR,Takeaway,13-03-2023
+UNKNOWN,UNKNOWN,4,4,,In-store,31-01-2023
+Coffee,UNKNOWN,2,10,Cash,,25-07-2023
+Juice,ERROR,3,UNKNOWN,Digital Wallet,Takeaway,08-04-2023
+Juice,,3,3,,,16-04-2023
+Salad,,5,5,Digital Wallet,Takeaway,12-01-2023
+Sandwich,ERROR,4,20,Credit Card,In-store,30-12-2023
+Cookie,ERROR,1,3,Credit Card,In-store,15-01-2023
+Cake,ERROR,ERROR,3,Credit Card,Takeaway,09-01-2023
+Juice,ERROR,3,3,,,30-09-2023
+Cookie,,1,,Credit Card,In-store,04-08-2023
+Salad,UNKNOWN,5,20,,Takeaway,25-01-2023
+Cake,UNKNOWN,3,9,Cash,Takeaway,29-01-2023
+Juice,UNKNOWN,3,15,Digital Wallet,In-store,28-10-2023
+Salad,UNKNOWN,5,5,UNKNOWN,ERROR,05-02-2023
+Cookie,ERROR,1,4,,Takeaway,18-07-2023
+UNKNOWN,UNKNOWN,1,4,Digital Wallet,,19-09-2023
+Smoothie,,4,16,Credit Card,ERROR,31-08-2023
+Smoothie,UNKNOWN,4,4,UNKNOWN,In-store,07-04-2023
+Coffee,UNKNOWN,2,2,Credit Card,,24-06-2023
+Sandwich,ERROR,4,20,,,01-10-2023
+Salad,ERROR,5,5,Cash,,22-03-2023
+Cake,,3,6,,Takeaway,28-03-2023
+Juice,ERROR,3,15,,In-store,21-05-2023
+Cake,ERROR,3,9,Digital Wallet,,28-06-2023
+Tea,,UNKNOWN,7.5,Credit Card,,27-02-2023
+,ERROR,4,12,,Takeaway,19-04-2023
+Sandwich,ERROR,4,4,Credit Card,Takeaway,28-12-2023
+Smoothie,,4,4,Digital Wallet,In-store,15-05-2023
+Juice,UNKNOWN,3,15,,,25-03-2023
+Cake,,3,3,,Takeaway,29-01-2023
+Juice,ERROR,3,9,Digital Wallet,Takeaway,13-10-2023
+Smoothie,UNKNOWN,4,20,,Takeaway,02-08-2023
+Cookie,,1,5,Cash,,UNKNOWN
+ERROR,ERROR,4,8,Credit Card,,02-08-2023
+,UNKNOWN,3,15,Cash,ERROR,
+Cake,UNKNOWN,3,15,Cash,In-store,03-05-2023
+Coffee,ERROR,2,6,Digital Wallet,,27-06-2023
+Cookie,UNKNOWN,1,5,Credit Card,In-store,02-04-2023
+Sandwich,,4,8,Credit Card,ERROR,UNKNOWN
+Coffee,ERROR,2,8,ERROR,In-store,17-10-2023
+Coffee,UNKNOWN,2,2,,,24-07-2023
+Cookie,,1,3,Digital Wallet,,29-05-2023
+Salad,UNKNOWN,5,5,,,13-04-2023
+Cake,,ERROR,3,Cash,In-store,20-12-2023
+Cookie,ERROR,1,1,Credit Card,,27-03-2023
+Smoothie,ERROR,4,12,Credit Card,,07-07-2023
+Sandwich,UNKNOWN,4,20,Cash,,07-10-2023
+Sandwich,UNKNOWN,4,,Credit Card,In-store,18-01-2023
+Juice,ERROR,3,15,Digital Wallet,,24-08-2023
+Juice,UNKNOWN,3,6,,Takeaway,01-09-2023
+Tea,ERROR,1.5,7.5,,Takeaway,02-08-2023
+Cake,,3,15,Credit Card,,08-08-2023
+Coffee,UNKNOWN,2,4,UNKNOWN,Takeaway,05-05-2023
+Salad,ERROR,5,15,,In-store,19-08-2023
+Tea,ERROR,1.5,1.5,Digital Wallet,,07-06-2023
+Sandwich,UNKNOWN,4,4,Cash,Takeaway,10-09-2023
+Tea,UNKNOWN,1.5,7.5,Cash,,09-05-2023
+,ERROR,,20,Credit Card,,19-08-2023
+Tea,ERROR,1.5,1.5,ERROR,In-store,26-08-2023
+Salad,,5,5,ERROR,In-store,06-08-2023
+Coffee,ERROR,2,6,,In-store,07-03-2023
+Salad,UNKNOWN,5,15,,,19-12-2023
+Coffee,,2,UNKNOWN,Digital Wallet,,15-01-2023
+Salad,,5,10,,In-store,01-06-2023
+Coffee,,2,10,Cash,In-store,12-03-2023
+Coffee,ERROR,2,10,,Takeaway,18-08-2023
+Tea,UNKNOWN,1.5,3,Cash,,20-04-2023
+Tea,ERROR,1.5,6,,Takeaway,09-11-2023
+Cake,UNKNOWN,3,15,Credit Card,Takeaway,14-04-2023
+Coffee,ERROR,2,8,Credit Card,Takeaway,15-11-2023
+Smoothie,UNKNOWN,4,4,Cash,Takeaway,27-07-2023
